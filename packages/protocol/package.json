@@ -1,6 +1,6 @@
 {
   "name": "@taiko/protocol",
-  "version": "0.15.3",
+  "version": "0.15.4",
   "private": true,
   "scripts": {
     "clean": "rm -rf abis cache && forge clean",

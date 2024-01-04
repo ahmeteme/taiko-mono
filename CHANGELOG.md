@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.25.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.24.0...taiko-mono-v0.25.0) (2024-01-04)
+
+
+### Features
+
+* **bridge-ui-v2:** Sort Transactions by Latest First in Bridge UI ([#15429](https://github.com/taikoxyz/taiko-mono/issues/15429)) ([42f89f1](https://github.com/taikoxyz/taiko-mono/commit/42f89f1391b9687d3a743234fa5583c2199404b3))
+
+
+### Bug Fixes
+
+* **bridge-ui-v2:** Ensure Modal Close Button Triggers Cancellation Logic ([#15424](https://github.com/taikoxyz/taiko-mono/issues/15424)) ([dc88587](https://github.com/taikoxyz/taiko-mono/commit/dc88587ba799e89753b7393a88b532f45f5c364c))
+* **bridge-ui-v2:** ETHBridge Handling for Different Destination Addresses ([#15426](https://github.com/taikoxyz/taiko-mono/issues/15426)) ([26959e5](https://github.com/taikoxyz/taiko-mono/commit/26959e5bb0d95e0e38f0434463b4edd33ec6564d))
+* **bridge-ui-v2:** Fixes for Configuration Setup and README Updates in Bridge UI v2 ([#15419](https://github.com/taikoxyz/taiko-mono/issues/15419)) ([952f326](https://github.com/taikoxyz/taiko-mono/commit/952f326c871a093e2fd6b201fd968d782bdf5c9c))
+* **repo:** fix some typos ([#15338](https://github.com/taikoxyz/taiko-mono/issues/15338)) ([2d2283c](https://github.com/taikoxyz/taiko-mono/commit/2d2283ce968972fc3ee0c12f406dcc7135dc01a4))
+
 ## [0.24.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.23.0...taiko-mono-v0.24.0) (2023-12-05)
 
 

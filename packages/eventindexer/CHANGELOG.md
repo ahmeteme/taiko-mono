@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.1](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.13.0...eventindexer-v0.13.1) (2024-01-04)
+
+
+### Bug Fixes
+
+* **repo:** fix some typos ([#15338](https://github.com/taikoxyz/taiko-mono/issues/15338)) ([2d2283c](https://github.com/taikoxyz/taiko-mono/commit/2d2283ce968972fc3ee0c12f406dcc7135dc01a4))
+
 ## [0.13.0](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.12.0...eventindexer-v0.13.0) (2023-10-18)
 
 
